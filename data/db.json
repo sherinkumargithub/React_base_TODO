@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "2",
-      "checked": true,
+      "checked": false,
       "item": "HTML5"
     },
     {
@@ -11,9 +11,9 @@
       "item": "REACT JS"
     },
     {
-      "id": "311",
-      "checked": true,
-      "item": "css"
+      "id": "3111",
+      "checked": false,
+      "item": "Node JS"
     }
   ]
 }
